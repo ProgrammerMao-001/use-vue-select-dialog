@@ -1,0 +1,13 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "vue-select-dialog server",
+    "main": "index.js",
+    "scripts": {
+        "start_front": "cd page && npm run serve",
+        "start_back": "cd server && node app.js",
+        "install": "cd page && npm install && cd ../server && npm install"
+    },
+    "author": "mhf",
+    "license": "ISC"
+}

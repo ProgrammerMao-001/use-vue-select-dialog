@@ -1,25 +1,3 @@
-# use-vue-select-dialog
-## 本项目是一个使用 vue-select-dialog 的示例项目
-[点此查看vue-select-dialog文档](https://www.npmjs.com/package/vue-select-dialog)
-> Vue-Select-Dialog 是一款基于vue2 + ElementUI封装的功能强大的 Vue.js 选择框组件，
-支持单选、多选、分页、列表展示、搜索过滤等特性，同时具备高度定制化能力， 适用于各种复杂的选择场景。
-无论是简单的下拉选择，还是复杂的数据筛选，Vue-Select-Dialog 都能轻松应对。
-
-## 运行
-```bash
-# 安装依赖
-npm install
-# 前端 node：18.20.3
-npm run start_front
-# 后端
-npm run start_back
-``` 
-
-## 更新
-```bash
-npm update vue-select-dialog
-```
-
 # vue-slect-dialog
 
 ![vue](https://img.shields.io/badge/vue-2.x-4fc08d.svg?colorA=2c3e50&style=flat-square)
